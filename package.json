@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "This is just an example from here: https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-configuring-npm-and-creating-a-package-json",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrianonrails/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "'Adrian <'adrian.onrails@gmail.com'>",
+  "license": "'MIT'",
+  "bugs": {
+    "url": "https://github.com/adrianonrails/starwars-names/issues"
+  },
+  "homepage": "https://github.com/adrianonrails/starwars-names",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
