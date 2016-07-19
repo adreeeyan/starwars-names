@@ -1,6 +1,6 @@
 {
-  "name": "starwars-names",
-  "version": "1.0.0",
+  "name": "starwars-names-33213",
+  "version": "1.1.0",
   "description": "This is just an example from here: https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-configuring-npm-and-creating-a-package-json",
   "main": "src/index.js",
   "scripts": {
